@@ -1,0 +1,9 @@
+.jumbotron{
+    background-color: rgb(165, 0, 0);
+    border-radius: 60px;
+    color: lightskyblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
