@@ -5,5 +5,11 @@ https://getbootstrap.com/docs/3.3/css/
 
 Add in some glyph icons, can be used as links or buttons as well
 Here are some other cool ideas:
+
 1. wells (adds in a box)
 2. rounded images, as well as responsive images
+3. different types of text (danger warning info (also applies to the backgrounds))
+4. Adds in consistency across the page
+5. cool menus (such as drop down) (35:00)
+6. How to group inputs together (40:00) Add in bootstrap theme as well
+7. Radio and checkboxes (42:00) Good for MC pratice, https://www.w3schools.com/bootstrap/bootstrap_forms_inputs.asp
