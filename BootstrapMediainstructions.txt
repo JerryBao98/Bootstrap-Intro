@@ -1,6 +1,9 @@
+these are just some personal notes
+
 @media
 https://getbootstrap.com/docs/3.3/css/
 
-Add in some glyph icons
-
-
+Add in some glyph icons, can be used as links or buttons as well
+Here are some other cool ideas:
+1. wells (adds in a box)
+2. rounded images, as well as responsive images
