@@ -10,6 +10,10 @@ Here are some other cool ideas:
 2. rounded images, as well as responsive images
 3. different types of text (danger warning info (also applies to the backgrounds))
 4. Adds in consistency across the page
-5. cool menus (such as drop down) (35:00)
+5. cool menus (such as drop down) (35:00), prefer to use another theme, (green and grey)
 6. How to group inputs together (40:00) Add in bootstrap theme as well
 7. Radio and checkboxes (42:00) Good for MC pratice, https://www.w3schools.com/bootstrap/bootstrap_forms_inputs.asp
+8. 50:00 Different ways to list the items. 
+9. 51:30 useful nav bar (very popular)
+
+56, thumbnails
