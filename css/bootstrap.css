@@ -5771,6 +5771,11 @@ button.close {
   overflow: hidden;
 }
 
+.carousel-inner-1{
+  margin: auto;
+  align-items: center
+}
+
 .carousel-item {
   position: relative;
   display: none;
