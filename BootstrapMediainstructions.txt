@@ -17,3 +17,4 @@ Here are some other cool ideas:
 9. 51:30 useful nav bar (very popular)
 
 56, thumbnails
+59, progress bars, useful to keep track of questions answered
